@@ -86,7 +86,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git@github.com:zeff96/hello-rails-back-end.git
+  https://github.com/josuerushanika/hello-rails-back-end.git
 ```
 
 ### Hello-react-front-end
